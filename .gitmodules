@@ -1,0 +1,3 @@
+[submodule "git-example-repo"]
+	path = git-example-repo
+	url = git@github.com:beejjorgensen/git-example-repo.git
